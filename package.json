@@ -1,0 +1,10 @@
+{
+  "name": "noushinebadi.ir",
+  "version": "1.0.0",
+  "description": "Static website for noushinebadi.ir",
+  "main": "index.html",
+  "scripts": {"build": "your-build-command-here"},
+  "author": "",
+  "license": "ISC"
+}
+
