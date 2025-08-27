@@ -241,7 +241,7 @@ sup {
 }
 
 .font-accent {
-    font-family: var(--ff-h);
+    font-family: serif;
     letter-spacing: -.0125em
 }
 
@@ -674,8 +674,9 @@ nav > [class*=menu] {
 @container header (width<=75ch) {
     @media not (scripting: enabled) {
         nav {
-            grid-template-columns:1fr 1fr !important
+            grid-template-columns: 1fr 1fr !important;
         }
+
     }@media (scripting: enabled) {
     .menu-desktop {
         display: none

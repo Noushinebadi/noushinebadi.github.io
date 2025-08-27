@@ -1,27 +1,26 @@
 @font-face {
-    font-family: ENDisplay;
+    font-family: Geist;
     font-weight: 400;
     font-display: block;
-    src: url(/assets/ENHairline-Y4eDRFiU.woff2) format("woff2")
+    src: url(/assets/Geist-Medium.woff2) format("woff2")
 }
 
 @font-face {
-    font-family: ENDisplay;
+    font-family: Geist;
     font-weight: 400;
-    font-style: italic;
     font-display: block;
-    src: url(/assets/ENHairlineItalic-C3YCJVCN.woff2) format("woff2")
+    src: url(/assets/Geist-Italic[wght].woff2) format("woff2")
 }
 
 @font-face {
     font-family: Geist;
     font-display: fallback;
-    src: url(/assets/GeistVariableVF-CIK_iAAG.woff2) format("woff2")
+    src: url(/assets/Geist-SemiBold.woff2) format("woff2")
 }
 
 
 :root {
-    --ff-h: "ENDisplay", "Times New Roman", "Times", serif;
+    --ff-h: "Times New Roman", "Times", serif;
     --ff-p: "Geist",
     Helvetica, Arial, sans-serif;
     --font-5: 6rem;
