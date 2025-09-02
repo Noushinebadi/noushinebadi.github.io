@@ -4,8 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="237e789a-9cdf-4a30-ab31-f70557993e3c" name="Changes" comment="last change-29.8">
+    <list default="true" id="237e789a-9cdf-4a30-ab31-f70557993e3c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/alfa-romeo-agency/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/alfa-romeo-agency/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/bakery/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/bakery/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/development/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/development/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/freelance/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/freelance/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/goldun/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/goldun/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/leave-management/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/leave-management/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/ncy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/ncy/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/office-banner-design/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/office-banner-design/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/social-media/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/social-media/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +171,12 @@
       <workItem from="1756382267730" duration="914000" />
       <workItem from="1756388633092" duration="619000" />
       <workItem from="1756474901999" duration="174000" />
-      <workItem from="1756475098606" duration="111000" />
+      <workItem from="1756475098606" duration="129000" />
+      <workItem from="1756535407849" duration="659000" />
+      <workItem from="1756708745086" duration="1266000" />
+      <workItem from="1756728111920" duration="704000" />
+      <workItem from="1756728831963" duration="82000" />
+      <workItem from="1756795042482" duration="292000" />
     </task>
     <task id="LOCAL-00001" summary="last changes-21.8">
       <option name="closed" value="true" />
@@ -219,7 +234,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756475131418</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="last change-29.8">
+      <option name="closed" value="true" />
+      <created>1756475224246</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1756475224246</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
