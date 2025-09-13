@@ -673,7 +673,7 @@ const Je = new Intl.DateTimeFormat("en-CY", {
     second: "numeric",
     hourCycle: "h23",
     timeZoneName: "shortOffset",
-    timeZone: "Asia/Bangkok"
+    timeZone: "Asia/Nicosia"
 });
 
 function Ft() {
