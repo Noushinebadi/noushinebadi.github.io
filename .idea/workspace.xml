@@ -4,10 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="237e789a-9cdf-4a30-ab31-f70557993e3c" name="Changes" comment="fix date">
+    <list default="true" id="237e789a-9cdf-4a30-ab31-f70557993e3c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/p46.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/p46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/p47.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/p47.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/main-Bfw5SRLd.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/main-Bfw5SRLd.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/alfa-romeo-agency/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/alfa-romeo-agency/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/bakery/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/bakery/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/development/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/development/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/freelance/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/freelance/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/goldun/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/goldun/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/leave-management/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/leave-management/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/ncy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/ncy/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/office-banner-design/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/office-banner-design/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/social-media/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/social-media/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/ui-challenge/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/ui-challenge/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,24 +61,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.index.html.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Node.js.main-rXAcXlNz.js.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Newtech/Documents/Private/noushinebadi.ir",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Node.js.main-rXAcXlNz.js.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Newtech/Documents/Private/noushinebadi.ir&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Newtech\Documents\Private\noushinebadi.ir\project\bakery" />
@@ -174,7 +190,9 @@
       <workItem from="1756816598586" duration="903000" />
       <workItem from="1756907101784" duration="274000" />
       <workItem from="1756991758622" duration="187000" />
-      <workItem from="1757747685072" duration="4105000" />
+      <workItem from="1757747685072" duration="4137000" />
+      <workItem from="1759993998362" duration="683000" />
+      <workItem from="1759994772826" duration="1269000" />
     </task>
     <task id="LOCAL-00001" summary="last changes-21.8">
       <option name="closed" value="true" />
@@ -272,7 +290,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757748240056</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="fix date">
+      <option name="closed" value="true" />
+      <created>1757752204201</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1757752204201</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
