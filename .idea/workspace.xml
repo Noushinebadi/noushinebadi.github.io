@@ -4,26 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="237e789a-9cdf-4a30-ab31-f70557993e3c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/p46.avif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/p46.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/p47.avif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/p47.jpg" afterDir="false" />
+    <list default="true" id="237e789a-9cdf-4a30-ab31-f70557993e3c" name="Changes" comment="new update- 9.10.2025">
+      <change afterPath="$PROJECT_DIR$/assets/p48.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/p49.avif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/main-Bfw5SRLd.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/main-Bfw5SRLd.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/alfa-romeo-agency/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/alfa-romeo-agency/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bakery/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/bakery/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/development/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/development/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/freelance/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/freelance/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/goldun/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/goldun/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/leave-management/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/leave-management/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/ncy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/ncy/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/office-banner-design/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/office-banner-design/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/social-media/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/social-media/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/ui-challenge/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/ui-challenge/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,7 +177,8 @@
       <workItem from="1756991758622" duration="187000" />
       <workItem from="1757747685072" duration="4137000" />
       <workItem from="1759993998362" duration="683000" />
-      <workItem from="1759994772826" duration="1269000" />
+      <workItem from="1759994772826" duration="1338000" />
+      <workItem from="1760700571117" duration="651000" />
     </task>
     <task id="LOCAL-00001" summary="last changes-21.8">
       <option name="closed" value="true" />
@@ -298,7 +284,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757752204201</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="new update- 9.10.2025">
+      <option name="closed" value="true" />
+      <created>1759996108281</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1759996108281</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -313,6 +307,7 @@
     <MESSAGE value="last changes- 30.8" />
     <MESSAGE value="last changes- 2.9" />
     <MESSAGE value="fix date" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix date" />
+    <MESSAGE value="new update- 9.10.2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="new update- 9.10.2025" />
   </component>
 </project>
