@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="237e789a-9cdf-4a30-ab31-f70557993e3c" name="Changes" comment="last update-19-01-2026">
+    <list default="true" id="237e789a-9cdf-4a30-ab31-f70557993e3c" name="Changes" comment="last update-20-01-2026">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,7 +189,7 @@
       <workItem from="1767705168550" duration="2333000" />
       <workItem from="1768812939077" duration="4040000" />
       <workItem from="1768817576284" duration="877000" />
-      <workItem from="1768895008624" duration="74000" />
+      <workItem from="1768895008624" duration="370000" />
     </task>
     <task id="LOCAL-00001" summary="last changes-21.8">
       <option name="closed" value="true" />
@@ -367,7 +367,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768818446949</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="last update-20-01-2026">
+      <option name="closed" value="true" />
+      <created>1768895105327</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1768895105327</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -410,7 +418,8 @@
     <MESSAGE value="new update- 03.11.2025" />
     <MESSAGE value="Initial website upload" />
     <MESSAGE value="last update-19-01-2026" />
-    <option name="LAST_COMMIT_MESSAGE" value="last update-19-01-2026" />
+    <MESSAGE value="last update-20-01-2026" />
+    <option name="LAST_COMMIT_MESSAGE" value="last update-20-01-2026" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
