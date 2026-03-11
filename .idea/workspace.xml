@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="237e789a-9cdf-4a30-ab31-f70557993e3c" name="Changes" comment="last update-20-01-2026">
+      <change afterPath="$PROJECT_DIR$/assets/d7.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/d7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/d8.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/d8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/p52.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/p52.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/p53.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/p53.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/development/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/development/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/social-media/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/social-media/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +25,7 @@
   </component>
   <component name="CopilotPersistence">
     <persistenceIdMap>
+      <entry key="_C:/Users/Newtech/Desktop/noushinebadi.ir" value="3AnMMNX32ZX4Nnnt5gshU6cQC6f" />
       <entry key="_C:/Users/Newtech/Documents/Private/My Site/noushinebadi.ir" value="2ylScWTCzMRUkcYi9zKQJzyRpi5" />
     </persistenceIdMap>
   </component>
@@ -36,12 +47,12 @@
     &quot;assignee&quot;: &quot;Noushinebadi&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Noushinebadi/portfolio&quot;,
-    &quot;accountId&quot;: &quot;290de914-98fc-4bb1-98da-c5b2da1ca931&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Noushinebadi/noushinebadi.ir.git",
+    "accountId": "290de914-98fc-4bb1-98da-c5b2da1ca931"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -50,31 +61,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Node.js.main-rXAcXlNz.js.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Newtech/Documents/Private/My Site/noushinebadi.ir&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.index.html.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Node.js.main-rXAcXlNz.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Newtech/Desktop/noushinebadi.ir",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Newtech\Documents\Private\noushinebadi.ir\project\bakery" />
       <recent name="C:\Users\Newtech\Documents\Private\noushinebadi.ir\assets" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Newtech\Desktop\noushinebadi.ir\assets" />
       <recent name="C:\Users\Newtech\Documents\Private\My Site\noushinebadi.ir\assets" />
       <recent name="C:\Users\Newtech\Documents\Private\noushinebadi.ir\assets" />
     </key>
@@ -190,6 +203,7 @@
       <workItem from="1768812939077" duration="4040000" />
       <workItem from="1768817576284" duration="877000" />
       <workItem from="1768895008624" duration="370000" />
+      <workItem from="1773223834704" duration="3276000" />
     </task>
     <task id="LOCAL-00001" summary="last changes-21.8">
       <option name="closed" value="true" />
