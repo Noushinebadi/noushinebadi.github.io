@@ -30,7 +30,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="for-github.io" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -42,12 +42,12 @@
     &quot;assignee&quot;: &quot;Noushinebadi&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Noushinebadi/noushinebadi.ir.git&quot;,
-    &quot;accountId&quot;: &quot;290de914-98fc-4bb1-98da-c5b2da1ca931&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Noushinebadi/noushinebadi.github.io.git",
+    "accountId": "290de914-98fc-4bb1-98da-c5b2da1ca931"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -65,7 +65,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "for-github.io",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/Newtech/OneDrive/Documents/Private Docs/noushinebadi.ir",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -206,7 +206,7 @@
       <workItem from="1768817576284" duration="877000" />
       <workItem from="1768895008624" duration="370000" />
       <workItem from="1773223834704" duration="4573000" />
-      <workItem from="1773303443420" duration="592000" />
+      <workItem from="1773303443420" duration="2599000" />
     </task>
     <task id="LOCAL-00001" summary="last changes-21.8">
       <option name="closed" value="true" />
@@ -400,7 +400,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773233815129</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="update">
+      <option name="closed" value="true" />
+      <created>1773307246546</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1773307246546</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -445,7 +453,9 @@
     <MESSAGE value="last update-19-01-2026" />
     <MESSAGE value="last update-20-01-2026" />
     <MESSAGE value="last update-11-03-2026" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="[#0]" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
