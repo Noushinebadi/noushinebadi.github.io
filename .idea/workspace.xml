@@ -12,11 +12,31 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CopilotChats">
+    <option name="panelChat">
+      <chat>
+        <option name="activeSessionId" value="47046925-a5b3-413c-a827-bd7c92e0a745" />
+        <option name="sessions">
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="47046925-a5b3-413c-a827-bd7c92e0a745" />
+            <option name="modeId" value="Ask" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+        </option>
+        <option name="type" value="PANEL" />
+      </chat>
+    </option>
+  </component>
   <component name="CopilotPersistence">
     <persistenceIdMap>
       <entry key="_C:/Users/Newtech/Desktop/noushinebadi.ir" value="3AnMMNX32ZX4Nnnt5gshU6cQC6f" />
       <entry key="_C:/Users/Newtech/Documents/Private/My Site/noushinebadi.ir" value="2ylScWTCzMRUkcYi9zKQJzyRpi5" />
+      <entry key="_C:/Users/Newtech/Documents/Private/noushinebadi.ir" value="3E4S1r9MYgiG1qYgwxQ8AqVfLoD" />
       <entry key="_C:/Users/Newtech/OneDrive/Documents/Private Docs/noushinebadi.ir" value="3ApxifwNEDZQLA50IsT0WimuOeD" />
+      <entry key="_D:/Private/Private Docs/noushinebadi.ir" value="3CwWHiNUyLiCF1O7HKU4Zg9C9co" />
     </persistenceIdMap>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -65,8 +85,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Merging main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Newtech/OneDrive/Documents/Private Docs/noushinebadi.ir&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Newtech/Documents/Private/noushinebadi.ir&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -89,9 +109,9 @@
       <recent name="C:\Users\Newtech\Documents\Private\noushinebadi.ir\assets" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Newtech\Documents\Private\noushinebadi.ir\assets" />
       <recent name="C:\Users\Newtech\Desktop\noushinebadi.ir\assets" />
       <recent name="C:\Users\Newtech\Documents\Private\My Site\noushinebadi.ir\assets" />
-      <recent name="C:\Users\Newtech\Documents\Private\noushinebadi.ir\assets" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -207,7 +227,15 @@
       <workItem from="1768895008624" duration="370000" />
       <workItem from="1773223834704" duration="4573000" />
       <workItem from="1773303443420" duration="3942000" />
-      <workItem from="1773324877815" duration="32000" />
+      <workItem from="1773324877815" duration="1643000" />
+      <workItem from="1777297028923" duration="501000" />
+      <workItem from="1777297678377" duration="366000" />
+      <workItem from="1777965597404" duration="2893000" />
+      <workItem from="1777986420817" duration="937000" />
+      <workItem from="1778054329117" duration="196000" />
+      <workItem from="1779436151344" duration="1073000" />
+      <workItem from="1781245677179" duration="1957000" />
+      <workItem from="1781262140319" duration="214000" />
     </task>
     <task id="LOCAL-00001" summary="last changes-21.8">
       <option name="closed" value="true" />
@@ -417,7 +445,55 @@
       <option name="project" value="LOCAL" />
       <updated>1773307717526</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="update-12.3.2026">
+      <option name="closed" value="true" />
+      <created>1773325020350</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1773325020350</updated>
+    </task>
+    <task id="LOCAL-00028" summary="update">
+      <option name="closed" value="true" />
+      <created>1773325031869</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1773325031869</updated>
+    </task>
+    <task id="LOCAL-00029" summary="update resume">
+      <option name="closed" value="true" />
+      <created>1777297398343</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1777297398343</updated>
+    </task>
+    <task id="LOCAL-00030" summary="update resume">
+      <option name="closed" value="true" />
+      <created>1777297444064</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1777297444064</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1777297897905</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1777297897905</updated>
+    </task>
+    <task id="LOCAL-00032" summary="update-22 may">
+      <option name="closed" value="true" />
+      <created>1779437210809</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1779437210809</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -463,9 +539,14 @@
     <MESSAGE value="last update-20-01-2026" />
     <MESSAGE value="last update-11-03-2026" />
     <MESSAGE value="[#0]" />
-    <MESSAGE value="update" />
+    <MESSAGE value="12.3" />
     <MESSAGE value="update branch" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="update-12.3.2026" />
+    <MESSAGE value="update" />
+    <MESSAGE value="update resume" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <MESSAGE value="update-22 may" />
+    <option name="LAST_COMMIT_MESSAGE" value="update-22 may" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
